@@ -46,7 +46,17 @@ What solution does this company offer that their competitors do not or cannot of
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) Offering tools and Information on Financial Literacy is great, but if spending behavior do not change, the stress that comes with the thoughts about money will alwauys be a challenge for people.  This article by Psychology Today offers some of my beliefs about undeciplined spending https://www.psychologytoday.com/us/blog/the-science-behind-behavior/201705/what-is-undisciplined-spending.  The 3 main points of the article include:  (1) overspending relative to one’s income, (2) spending without prior planning or budgeting, and (3) paying far more for a product than is reasonable.
 
-* Why do you think that offering this product or service would benefit the company?
+This articke from InvestorJunkie.com https://investorjunkie.com/personal-finance/mint-com-alternatives/#what%e2%80%99s-wrong-with-mint offers 8 issues that answer What is wrong with Mint" at present day:
+1. Problems With Synchronization — Mint has trouble connecting to certain banks or credit unions if they're on the smaller side, and it has trouble staying connected long term. Users are often asked to fix their connection to accounts.
+2. Poor Customer Service — It's not uncommon for questions to go unanswered for weeks or to have problems never resolved.
+3. Lack of Investing Features — Mint's investing section is OK at best. And it does not make it easy to monitor your investment performance.
+4. Intrusive Ads — Ads are displayed in various parts of the site, trying to sell you financial services related to your profile. The ads are numerous and constant, which leaves a bad taste in a lot of users' mouths.
+5. Lack of Report Generation — The only way to generate a report is by exporting a CSV file to a spreadsheet like Microsoft Excel.
+6. No Reconciliation — You cannot reconcile against your monthly bank statements. Mint assumes the data downloaded is always correct.
+7. No Import Option From Quicken — You cannot import your data from Quicken into Mint.
+8. Mistakes in Labeling Purchases — Mint attempts to label your purchases as they come in, but it can get it wrong. Users have to check their purchases to make sure things are sorted into the right budget categories and to make sure that less common purchases are labeled appropriately.
+
+* Why do you think that offering this product or service would benefit the company? - By offering a product to help people better understand their spending, the Customer and the company can use data and exploit behavior to offer greater experiences that can potentially improve financial lives.
 
 * What technologies would this additional product or service utilize?
 
